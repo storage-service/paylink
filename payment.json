@@ -1,0 +1,37 @@
+{
+    "qris": {
+        "qris_static_string": "00020101021126690021ID.CO.BANKMANDIRI.WWW01189360000801948125410211719481254110303UMI51440014ID.CO.QRIS.WWW0215ID10232777528880303UMI5204899953033605802ID5909RUSDIANTO6015Makassar (Kota)61059015762070703A0163047DED",
+        "merchant_name": "RUSDIANTO",
+        "logo_url": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151050/general/logo/v3noj7owpupammou8pnl.svg"
+    },
+    "banks": [
+        {
+            "id": "bca",
+            "name": "BCA Transfer",
+            "account_number": "0255824673",
+            "account_owner": "RUSDIANTO",
+            "logo_url": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151052/general/logo/uqnzusudosxi8yxqq7wp.svg"
+        },
+        {
+            "id": "mandiri",
+            "name": "Mandiri Transfer",
+            "account_number": "9000006092622",
+            "account_owner": "RUSDIANTO",
+            "logo_url": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151051/general/logo/fl3tvythwz2q6ebrd1kw.svg"
+        },
+        {
+            "id": "bni",
+            "name": "BNI Transfer",
+            "account_number": "0242703235",
+            "account_owner": "RUSDIANTO",
+            "logo_url": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151051/general/logo/tpmifztkvbgw7dqakxcp.svg"
+        },
+        {
+            "id": "bri",
+            "name": "BRI Transfer",
+            "account_number": "1632010000179506",
+            "account_owner": "RUSDIANTO",
+            "logo_url": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151050/general/logo/tbalsfewgpemm0fvfnll.svg"
+        }
+    ]
+}
