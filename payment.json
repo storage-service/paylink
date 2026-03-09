@@ -8,28 +8,28 @@
     "banks": [
         {
             "id": "bca",
-            "name": "BCA Transfer",
+            "name": "Bank BCA",
             "account_number": "0255824673",
             "account_owner": "RUSDIANTO",
             "logo_url": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151052/general/logo/uqnzusudosxi8yxqq7wp.svg"
         },
         {
             "id": "mandiri",
-            "name": "Mandiri Transfer",
+            "name": "Bank Mandiri",
             "account_number": "9000006092622",
             "account_owner": "RUSDIANTO",
             "logo_url": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151051/general/logo/fl3tvythwz2q6ebrd1kw.svg"
         },
         {
             "id": "bni",
-            "name": "BNI Transfer",
+            "name": "Bank BNI",
             "account_number": "0242703235",
             "account_owner": "RUSDIANTO",
             "logo_url": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151051/general/logo/tpmifztkvbgw7dqakxcp.svg"
         },
         {
             "id": "bri",
-            "name": "BRI Transfer",
+            "name": "Bank BRI",
             "account_number": "163201000179506",
             "account_owner": "RUSDIANTO",
             "logo_url": "https://res.cloudinary.com/image-cloudinary/image/upload/v1769151050/general/logo/tbalsfewgpemm0fvfnll.svg"
